@@ -1,0 +1,9 @@
+#! /bin/bash
+#
+# a2 test
+#
+echo -n "test
+"
+echo -n "test bye
+"
+#
