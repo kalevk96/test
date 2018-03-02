@@ -5,5 +5,6 @@
 echo -n "test
 "
 echo -n "test bye
+echo -n "sky is blue
 "
 #
